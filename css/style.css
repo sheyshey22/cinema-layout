@@ -1,0 +1,112 @@
+*{outline: 1px solid rgba(225,0,0, 0.1);
+}
+.col-4{
+	background: #F5F5F5;
+}
+.header .logo{
+	max-width: 100%;
+	width: 180px,
+}
+.mov{
+	color: #A19B9B;
+	font-family: verdana;
+	font-size: 12px;
+	position: relative; 
+	bottom: 20px;
+	left:20px;
+}
+.btn-search{
+	border: none;
+}
+.btn-search img{
+	margin-left:-29px;
+	width:10px;
+	height: 10px;
+}
+.hero{
+	background: #333 url("../img/banner.jpg")no-repeat;
+	background-size: 100%;
+	color: #DCDCDC;
+	min-height: 410px; 
+}
+h1{
+	font-family: arial;
+	font-size:30px;
+	margin: ;
+}
+hr{
+	width: 350px;
+	margin-bottom:20px; 
+}
+.age{
+	color:#00FF00;
+	border:1px solid#00FF00;
+	border-radius:10%;
+	padding: 10px;   
+}
+.boton{
+	border-radius: 5px;
+	padding: 15px;
+	margin: 15px 0 15px 0;
+	color:#fff;
+	font-size:12px;
+}
+
+.trailer{
+	background: #DAA520;
+}
+.ticket{
+	background: #D2691E;
+}
+.cartelera{
+	background: #DAA520;
+}
+.cartelera img{
+	width: 170px;
+	height: 190px;
+	float: left;
+	margin: 30px;
+}
+.video{
+	margin-bottom:30px;
+}
+h3{
+	font-size:20px;
+	color:#C0C0C0;
+}
+h6{
+	color: #D2691E;
+}
+.small{
+	font-size: 12px;
+	color: #C0C0C0;
+}
+li{
+	display: block;
+	padding: 0;
+	text-decoration: none;   
+	text-align: left;	
+}
+a{
+	color: #000;
+	font-size: 13px;
+}
+.panel{
+	margin-top: 30px;
+	width:90%;
+	margin-left: 60px;  
+}
+.col-12{
+	width: 100%;
+	background: #F5F5F5;
+	padding: 80px;
+	color:	#DCDCDC;
+}
+.panel img{
+	width: 100%;
+
+
+}
+
+
+
